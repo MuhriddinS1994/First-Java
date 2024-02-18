@@ -1,3 +1,3 @@
 # First-Java
-My firsth examples in GITHUB ;
+My first examples in GITHUB ;
 Updated
